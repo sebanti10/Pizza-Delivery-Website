@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+	margin: 5px 15px;
+}
+
+#text-color{
+	color: white;
+}
+
+nav{
+	height:50px;
+}
+
+nav ul{
+  list-style: none;
+  margin: 0 2px;
+  padding: 0;
+  float:right;
+  position:relative;
+  left:10%;
+}
+
+.Booking-btn{
+	font-family: 'Oswald', sans-serif;
+	padding: 7px 15px;
+	padding-right: 20px;
+	border-radius: 5px;
+	text-decoration: none;
+	background-color: #e61a39;
+	color: white;
+}
+
+nav li a
+{
+	font-family: 'Oswald', sans-serif;
+	line-height: 15px;
+	border-right: dashed 1px;
+	line-height: 5px;
+}
